@@ -5,4 +5,4 @@ Anyways, this is the first time I'm trying Github out.
 
 # About me: 
 Hi! I'm Sambhav and I'm interested in computational biology, ML and data science.
-I'm good with C++ and I am currently learning Java and Python.
+I'm good with C++ and I am currently learning TF and Python.
